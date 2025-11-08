@@ -1,16 +1,33 @@
-## Hi there 👋
+<img src="./banner.png" width="100%" />
 
-<!--
-**Parsa81shokati/Parsa81shokati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Parsa Shokati</h1>
+<h3 align="center">Front-End Developer | React & Next.js & TailwindCSS</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 About Me
+- Focused on building fast, clean, and scalable user interfaces.
+- Comfortable with UI/UX principles and modern front-end tools.
+- Always learning, improving, and shipping.
+
+---
+
+ 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux,git" />
+</p>
+
+---
+
+ 🧰 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,github" />
+</p>
+
+---
+
+🌐 Contact
+Email: Parsashokati67@gmail.com 
+linkedin:  https://www.linkedin.com/in/parsa-shokati
+
