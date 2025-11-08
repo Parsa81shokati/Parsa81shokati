@@ -5,14 +5,14 @@
 
 ---
 
- 🚀 About Me
+### 🚀 About Me
 Front-end Developer specialized in React and Next.js, with strong problem-solving skills, a responsible and team-oriented approach. Always eager to learn new technologies to improve project quality and efficiency.
 
 ---
 
- 🛠️ Skills
+### 🛠️ Skills
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://skillicons.dev/icons?i=html" width="48" />
@@ -44,7 +44,7 @@ Front-end Developer specialized in React and Next.js, with strong problem-solvin
     <span>TailwindCSS</span>
   </div>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://skillicons.dev/icons?i=redux" width="48" />
     <span>Redux Toolkit</span>
   </div>
@@ -68,9 +68,9 @@ Front-end Developer specialized in React and Next.js, with strong problem-solvin
 
 ---
 
- 🧰 Tools
+### 🧰 Tools
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://skillicons.dev/icons?i=vscode" width="48" />
@@ -104,10 +104,8 @@ Front-end Developer specialized in React and Next.js, with strong problem-solvin
 
 </div>
 
-
 ---
 
-🌐 Contact
-Email: Parsashokati67@gmail.com 
-linkedin:  https://www.linkedin.com/in/parsa-shokati
-
+### 🌐 Contact
+Email: **ParsaShokati67@gmail.com**  
+LinkedIn: https://www.linkedin.com/in/parsa-shokati
