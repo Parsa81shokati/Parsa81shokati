@@ -9,62 +9,57 @@
 Front-end Developer specialized in React and Next.js, with strong problem-solving skills, a responsible and team-oriented approach. Always eager to learn new technologies to improve project quality and efficiency.
 
 ---
+## 🛠️ Skills
 
-### 🛠️ Skills
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 90px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=html" width="48" />
-    <span>HTML5</span>
+    <div>HTML5</div>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 90px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=css" width="48" />
-    <span>CSS3</span>
+    <div>CSS3</div>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 90px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=js" width="48" />
-    <span>JavaScript</span>
+    <div>JavaScript</div>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 90px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=react" width="48" />
-    <span>React</span>
+    <div>React</div>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 90px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=nextjs" width="48" />
-    <span>Next.js</span>
+    <div>Next.js</div>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 90px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=tailwind" width="48" />
-    <span>TailwindCSS</span>
+    <div>TailwindCSS</div>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 90px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=redux" width="48" />
-    <span>Redux Toolkit</span>
+    <div>Redux Toolkit</div>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 90px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=graphql" width="48" />
-    <span>GraphQL</span>
+    <div>GraphQL</div>
   </div>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 90px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=materialui" width="48" />
-    <span>Material UI</span>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=git" width="48" />
-    <span>Git</span>
+    <div>Material UI</div>
   </div>
 
 </div>
+
 
 ---
 
