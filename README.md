@@ -6,15 +6,13 @@
 ---
 
  🚀 About Me
-- Focused on building fast, clean, and scalable user interfaces.
-- Comfortable with UI/UX principles and modern front-end tools.
-- Always learning, improving, and shipping.
+Front-end Developer specialized in React and Next.js, with strong problem-solving skills, a responsible and team-oriented approach. Always eager to learn new technologies to improve project quality and efficiency.
 
 ---
 
  🛠️ Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px;">
 
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://skillicons.dev/icons?i=html" width="48" />
