@@ -11,52 +11,53 @@ Front-end Developer specialized in React and Next.js, with strong problem-solvin
 ---
 ## 🛠️ Skills
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-
+<table>
+  <tr>
+<td align="center">
   <div style="width: 90px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=html" width="48" />
     <div>HTML5</div>
-  </div>
+  </td>
 
-  <div style="width: 90px; text-align: center;">
+ <td align="center">
     <img src="https://skillicons.dev/icons?i=css" width="48" />
     <div>CSS3</div>
-  </div>
+  </td>
 
-  <div style="width: 90px; text-align: center;">
+  <td align="center">
     <img src="https://skillicons.dev/icons?i=js" width="48" />
     <div>JavaScript</div>
-  </div>
+  </td>
 
-  <div style="width: 90px; text-align: center;">
+  <td align="center">
     <img src="https://skillicons.dev/icons?i=react" width="48" />
     <div>React</div>
-  </div>
+  </td>
 
-  <div style="width: 90px; text-align: center;">
+ <td align="center">
     <img src="https://skillicons.dev/icons?i=nextjs" width="48" />
     <div>Next.js</div>
-  </div>
+  </td>
 
-  <div style="width: 90px; text-align: center;">
+  <td align="center">
     <img src="https://skillicons.dev/icons?i=tailwind" width="48" />
     <div>TailwindCSS</div>
-  </div>
+  </td>
 
-  <div style="width: 90px; text-align: center;">
+ <td align="center">
     <img src="https://skillicons.dev/icons?i=redux" width="48" />
     <div>Redux Toolkit</div>
-  </div>
+  </td>
 
-  <div style="width: 90px; text-align: center;">
+  <td align="center">
     <img src="https://skillicons.dev/icons?i=graphql" width="48" />
     <div>GraphQL</div>
-  </div>
+  </td>
 
-  <div style="width: 90px; text-align: center;">
+  <td align="center">
     <img src="https://skillicons.dev/icons?i=materialui" width="48" />
     <div>Material UI</div>
-  </div>
+  </td>
 
 </div>
 
