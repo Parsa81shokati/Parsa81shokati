@@ -1,4 +1,4 @@
-<img src="./banner.png" width="100%" />
+
 
 <h1 align="center">Parsa Shokati</h1>
 <h3 align="center">Front-End Developer | React & Next.js & TailwindCSS</h3>
